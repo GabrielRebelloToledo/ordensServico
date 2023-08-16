@@ -1,0 +1,15 @@
+.test{
+	width: 1000px;
+	background-color: red;
+}
+#osgerada{
+	display: none;
+}
+#botaoNovaOrdem{
+	display: none;
+}
+
+#botaoGerarOS{
+	display: block;
+}
+
